@@ -130,4 +130,4 @@ Congratulations! You've learned how to create a user in a VantageCloud Lake envi
 
 **IF you haven't [created a compute group or profile]() it is recommended to proceed through the rest of the tutorials.**
 
-[Previous: Creating a compute group and profile]() | [Next: Query monitoring]()
+[Previous: Creating a compute group and profile](https://github.com/JoshSchoen/vcl-quickstart/tree/main/create-compute) | [Next: Query monitoring]()
