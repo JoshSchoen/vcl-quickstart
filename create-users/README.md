@@ -39,7 +39,7 @@ CREATE USER trials_user FROM DBC
 
 ---
 #### What is the DBC user?
-You can think of the DBC user are the root users and is required to create an environment, The DBC users is not able to login in to the VantageCloud Lake Console so we must create a database user to work with the environments database.
+You can think of the DBC user are the root user and is required to create an environment, The DBC user is not able to login in to the VantageCloud Lake Console so we must create a database user to work with the environments database.
 [Learn more about what a DBC users]() and how to create it during environment provisioning.
 
 ---
@@ -127,3 +127,7 @@ bteq -u username -p
 ```
 
 Congratulations! You've learned how to create a user in a VantageCloud Lake environment, assign roles and permissions, and verify the user's existence. User management is crucial for maintaining security and access control in your VantageCloud Lake environment.
+
+**IF you haven't [created a compute group or profile]() it is recommended to proceed through the rest of the tutorials.**
+
+[Previous: Creating a compute group and profile]() | [Next: Query monitoring]()
