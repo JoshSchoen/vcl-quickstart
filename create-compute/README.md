@@ -54,4 +54,4 @@ Repeat steps 2 & 3 and create a second compute group and profile using compute g
 
 Congratulations! You've learned how to create a a compute group in a VantageCloud Lake environment, and assign a compute group profile. Compute groups are optional but recommended to improve separation of workloads and monitoring, reporting, and billing.
 
-[Previous: Creating an Environment]() | [Next: Creating users]()
+[Previous: Creating an Environment]() | [Next: Creating users](https://github.com/JoshSchoen/vcl-quickstart/blob/main/create-users)
