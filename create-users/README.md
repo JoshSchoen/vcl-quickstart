@@ -38,8 +38,6 @@ CREATE USER trials_user FROM DBC
 ```
 
 ---
-
----
 #### What is the DBC user?
 You can think of the DBC user are the root users and is required to create an environment, The DBC users is not able to login in to the VantageCloud Lake Console so we must create a database user to work with the environments database.
 [Learn more about what a DBC users]() and how to create it during environment provisioning.
