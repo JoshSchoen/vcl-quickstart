@@ -1,12 +1,12 @@
 # SQL Tutorial: Creating Compute Groups and Profiles
 
-In this tutorial, you will learn how to create Compute Groups and Profiles in a VantageCold Lake database. Compute Groups & Profile is crucial for controlling workloads for departments applications, or projects, and then segregate processing, monitoring, reporting, and billing by department, application, or project VantageCold Lake environment. [Learn more about Compute groups and profiles](https://docs.teradata.com/r/Teradata-VantageCloud-Lake/Using-VantageCloud-Lake-Console-to-Manage-VantageCloud-Lake/Managing-Environments/Compute-Groups/Creating-a-Compute-Group).
+In this tutorial, you will learn how to create Compute Groups and Profiles in a VantageCold Lake database. Compute Groups & Profiles are crucial for controlling workloads for departments, applications, or projects, and then segregate processing, monitoring, reporting, and billing by department, application, or project VantageCold Lake environment. [Learn more about Compute groups and profiles](https://docs.teradata.com/r/Teradata-VantageCloud-Lake/Using-VantageCloud-Lake-Console-to-Manage-VantageCloud-Lake/Managing-Environments/Compute-Groups/Creating-a-Compute-Group).
 
 ## Prerequisites
 
 Before you begin, make sure you have the following:
 
-- Access to a VantageCould Lake Console. If you need access contact your administrator or [start a trial]().
+- Access to a VantageCould Lake Console. If you need access contact your administrator or [start a free 14 day trial]().
 - Access to a VantageCold Lake Environment. Creating an environment is easy, here's a [tutorial]() to get you started.
 - Appropriate privileges or access to an account with sufficient permissions to create compute groups and profiles.
 
