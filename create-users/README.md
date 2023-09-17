@@ -128,6 +128,6 @@ bteq -u username -p
 
 Congratulations! You've learned how to create a user in a VantageCloud Lake environment, assign roles and permissions, and verify the user's existence. User management is crucial for maintaining security and access control in your VantageCloud Lake environment.
 
-**IF you haven't [created a compute group or profile]() it is recommended to proceed through the rest of the tutorials.**
+**IF you haven't [created a compute group or profile](https://github.com/JoshSchoen/vcl-quickstart/tree/main/create-compute) it is recommended to proceed through the rest of the tutorials.**
 
 [Previous: Creating a compute group and profile](https://github.com/JoshSchoen/vcl-quickstart/tree/main/create-compute) | [Next: Query monitoring]()
