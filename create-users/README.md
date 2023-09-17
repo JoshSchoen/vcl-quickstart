@@ -19,7 +19,7 @@ Use VantageCloud Lake Console Editor, a Teradata SQL client, command-line tool o
 ---
 
 ## Step 2: Create a New User from the DBC User
-To create a new user in VantageCloud Lake, you will use the `CREATE USER` statement. Replace and `password` with the desired `username` and `password` for your user. We recommend using `trials_user`, but you can specific any username right after the `CREATE USER` statement.
+To create a new user in VantageCloud Lake, you will use the `CREATE USER` statement. Replace and `username` and `password` with the desired `username` and `password` for your user. We recommend using `trials_user`, but you can specific any username right after the `CREATE USER` statement.
 
 ---
 #### What is the DBC user?
