@@ -1,25 +1,25 @@
 # SQL Tutorial: Creating Users
 
-In this tutorial, you will learn how to create users in a VantageCold Lake database. User management is crucial for controlling access and security within your VantageCold Lake environment.
+In this tutorial, you will learn how to create users in a VantageCloud Lake database. User management is crucial for controlling access and security within your VantageCold Lake environment.
 
 ## Prerequisites
 Before you begin, make sure you have the following:
-- Access to a VantageCould Lake Console. If you need access contact your administrator or [start a trial]().
-- Access to a VantageCold Lake Environment. Creating an environment is easy, here's a [tutorial]() to get you started.
+- Access to a VantageCloud Lake Console. If you need access contact your administrator or [start a trial]().
+- Access to a VantageCloud Lake Environment. Creating an environment is easy, here's a [tutorial]() to get you started.
 - Appropriate privileges or access to an account with sufficient permissions to create users.
 
-## Step 1: Access the VantageCould Lake Environments Database
-Use VantageCould Lake Console Editor a Teradata SQL client, command-line tool or  to connect to the Environments database where you want to create the user. Provide the necessary connection details,
+## Step 1: Access the VantageCloud Lake Environments Database
+Use VantageCloud Lake Console Editor a Teradata SQL client, command-line tool or  to connect to the Environments database where you want to create the user. Provide the necessary connection details,
 `Server name`, `username`, `password`
 
 ---
 
-*If you don't have access to a SQL client or a command-line, the **VantageCould Lake Console Editor** is the easiest way to get started. Contact your administrator or [start a trial]().*
+*If you don't have access to a SQL client or a command-line, the **VantageCloud Lake Console Editor** is the easiest way to get started. Contact your administrator or [start a trial]().*
 
 ---
 
 ## Step 2: Create a New User from the DBC User
-To create a new user in VantageCould Lake, you will use the `CREATE USER` statement. Replace and `password` with the desired `username` and `password` for your user. We recommend using `trials_user`, but you can specific any username right after the `CREATE USER` statement.
+To create a new user in VantageCloud Lake, you will use the `CREATE USER` statement. Replace and `password` with the desired `username` and `password` for your user. We recommend using `trials_user`, but you can specific any username right after the `CREATE USER` statement.
 
 ---
 #### What is the DBC user?
