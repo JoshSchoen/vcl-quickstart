@@ -1,6 +1,6 @@
 # Teradata VantageCloud Lake Quickstart guides.
 
-This repo is intended to contain SQL scripts, guides, tutorials and best practices to help administrators and SQL users up and running as quickly as possible.
+This repo is intended to contain SQL scripts, guides, tutorials and best practices to help administrators and SQL users get up and running as quickly as possible.
 
 ## How to use this repo?
 
