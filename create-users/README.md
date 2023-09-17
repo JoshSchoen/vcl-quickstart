@@ -8,7 +8,7 @@ Before you begin, make sure you have the following:
 - Access to a VantageCold Lake Environment. Creating an environment is easy, here's a [tutorial]() to get you started.
 - Appropriate privileges or access to an account with sufficient permissions to create users.
 
-## Step 1: Access the VantageCold Lake Environments Database
+## Step 1: Access the VantageCould Lake Environments Database
 Use VantageCould Lake Console Editor a Teradata SQL client, command-line tool or  to connect to the Environments database where you want to create the user. Provide the necessary connection details,
 `Server name`, `username`, `password`
 
