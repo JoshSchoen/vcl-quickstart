@@ -4,7 +4,7 @@ In this tutorial, you will learn how to create users in a VantageCloud Lake data
 
 ## Prerequisites
 Before you begin, make sure you have the following:
-- Access to a VantageCloud Lake Console. If you need access contact your administrator or [start a trial]().
+- Access to a VantageCloud Lake Console. If you need access contact your administrator or [start a 14 day free trial]().
 - Access to a VantageCloud Lake Environment. Creating an environment is easy, here's a [tutorial]() to get you started.
 - Appropriate privileges or access to an account with sufficient permissions to create users.
 
