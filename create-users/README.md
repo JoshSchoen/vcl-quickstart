@@ -9,12 +9,12 @@ Before you begin, make sure you have the following:
 - Appropriate privileges or access to an account with sufficient permissions to create users.
 
 ## Step 1: Access the VantageCloud Lake Environments Database
-Use VantageCloud Lake Console Editor a Teradata SQL client, command-line tool or  to connect to the Environments database where you want to create the user. Provide the necessary connection details,
+Use VantageCloud Lake Console Editor, a Teradata SQL client, command-line tool or  to connect to the Environments database where you want to create the user. Provide the necessary connection details,
 `Server name`, `username`, `password`
 
 ---
 
-*If you don't have access to a SQL client or a command-line, the **VantageCloud Lake Console Editor** is the easiest way to get started. Contact your administrator or [start a trial]().*
+*If you don't have access to a SQL client or a command-line, the **VantageCloud Lake Console Editor** is the easiest way to get started. Contact your administrator or [start a 14 day free trial]().*
 
 ---
 
