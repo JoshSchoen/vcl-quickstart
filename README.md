@@ -37,6 +37,7 @@ VantageCloud Lake Console is an web application alternative to using SQL. It is 
 - [Creating an Environment]()
 - [Creating a Compute Group and Profile]()
 - [Creating Users]()
+- [Loading Data]()
 - [nPath Function]()
 - [Random Forest Function]()
 
